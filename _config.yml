@@ -16,7 +16,7 @@ baseurl:          ''
 
 author:
   name:           'Gabriel Puig Roca-Sastre''
-  url:            https://twitter.com/fongandrewc
+  url:            https://twitter.com/gprs_translator
 
 paginate:         5
 # paginate_path:    '/page:num'
