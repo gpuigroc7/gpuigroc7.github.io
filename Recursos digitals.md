@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
+title: Recursos digitals
 sidebar_link: true
 ---
-

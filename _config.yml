@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            TIC a l'aula
 tagline:          'Gabriel Puig Roca-Sastre'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Gabriel Puig Roca-Sastre'
 url:              https://gpuigroc7.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,7 +15,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'Gabriel Puig Roca-Sastre'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
