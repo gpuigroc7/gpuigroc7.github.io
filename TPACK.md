@@ -2,7 +2,7 @@
 layout: page
 title: T2 TPACK
 sidebar_link: true
-position: 3
+position: 2
 ---
 
 ## Activitats d'Aprenentatge i Model TPACK
