@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Com està feta aquesta pàgina?
+title: Això no és un google sites
 sidebar_link: true
-position: 6
+position: 8
 ---

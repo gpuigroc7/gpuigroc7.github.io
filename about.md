@@ -2,6 +2,6 @@
 layout: home
 title: Sobre mi
 sidebar_link: true
-position: 1
+position: 7
 ---
 
