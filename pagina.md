@@ -2,5 +2,5 @@
 layout: page
 title: Això no és un google sites
 sidebar_link: true
-position: 7
+position: 6
 ---
