@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            TIC a l'aula
 tagline:          'Gabriel Puig Roca-Sastre'
 description:      'Gabriel Puig Roca-Sastre'
-url:              https://gpuigroc7.github.io
+url:              https://tic.tradior.cat
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,9 +16,9 @@ baseurl:          ''
 
 author:
   name:           'Gabriel Puig Roca-Sastre'
-  url:            https://twitter.com/fongandrewc
+  url:            
 
-paginate:         5
+paginate:         7
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
