@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recursos digitals
+title: T1 Recursos digitals
 sidebar_link: true
 position: 2
 ---
