@@ -5,6 +5,8 @@ sidebar_link: true
 position: 4
 ---
 
+[Descarregar pdf](https://ubarcelona-my.sharepoint.com/:b:/g/personal/gpuigroc7_alumnes_ub_edu/Eca2W9w3CPtIhqBWVnXhSKsBpQp_Ai_AdmEHgKlcFEpqDQ?email=grane.mireia%40ub.edu&e=wHhEW6)<br/>
+
 ## Context educatiu
 
 <div style="text-align: justify">
@@ -48,6 +50,3 @@ També creiem que les dues activitats estan construïdes com una pujada en la di
 
 Queda per veure si l’aplicació real d’aquestes activitats serà satisfactòria, si els alumnes es veuen motivats a realitzar-les i com se solucionen els problemes que segur que apareixen. Segurament després del Pràcticum 2 hi haurà coses que canviarem o plantejarem de manera diferent si mai les repetim, però només el temps ho dirà.
 </div>
-<br/>
-
-[Descarregar pdf](https://ubarcelona-my.sharepoint.com/:b:/g/personal/gpuigroc7_alumnes_ub_edu/Eca2W9w3CPtIhqBWVnXhSKsBpQp_Ai_AdmEHgKlcFEpqDQ?email=grane.mireia%40ub.edu&e=wHhEW6)
