@@ -7,14 +7,4 @@ sidebar_sort_order: 4
 
 ## Unitat Didàctica / Seqüència d'Aprenentatge (PII)
 
-<div id="adobe-dc-view"></div>
-<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "2c8b8ab6b6b14c3ebbd14d0827745f0f", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "https://tic.trauduir.cat\assets\SA 4t ESO.pdf"}},
-			metaData:{fileName: "SA 4t ESO.pdf"}
-		}, {});
-	});
-</script>
+<embed src="https://ubarcelona-my.sharepoint.com/personal/gpuigroc7_alumnes_ub_edu/Documents/MFPS/Primer/Segon%20semestre/SA%204t%20ESO.pdf?CT=1747410060978&OR=ItemsView" style="width:100%; height: 100%;">
