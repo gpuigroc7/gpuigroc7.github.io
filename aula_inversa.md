@@ -2,7 +2,7 @@
 layout: page
 title: T3 Aula inversa
 sidebar_link: true
-position: 3
+sidebar_sort_order: 3
 ---
 
 [Descarregar pdf](https://ubarcelona-my.sharepoint.com/:b:/g/personal/gpuigroc7_alumnes_ub_edu/Eca2W9w3CPtIhqBWVnXhSKsBpQp_Ai_AdmEHgKlcFEpqDQ?email=grane.mireia%40ub.edu&e=wHhEW6)<br/>

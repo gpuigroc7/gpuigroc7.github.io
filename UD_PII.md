@@ -2,7 +2,7 @@
 layout: page
 title: T4 Unitat didàctica
 sidebar_link: true
-position: 2
+sidebar_sort_order: 4
 ---
 
 ## Unitat Didàctica / Seqüència d'Aprenentatge (PII)

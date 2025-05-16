@@ -2,7 +2,7 @@
 layout: page
 title: T1 Recursos digitals
 sidebar_link: true
-position: 4
+sidebar_sort_order: 1
 ---
 
 ## Cercador de recursos
