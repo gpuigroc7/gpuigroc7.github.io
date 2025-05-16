@@ -2,7 +2,7 @@
 layout: page
 title: T2 TPACK
 sidebar_link: true
-position: 4
+position: 4 6
 ---
 
 [Descarregar pdf](https://ubarcelona-my.sharepoint.com/:b:/g/personal/gpuigroc7_alumnes_ub_edu/Eca2W9w3CPtIhqBWVnXhSKsBpQp_Ai_AdmEHgKlcFEpqDQ?email=grane.mireia%40ub.edu&e=wHhEW6)<br/>
