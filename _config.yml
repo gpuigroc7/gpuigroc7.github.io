@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Eportafoli
 tagline:          'Gabriel Puig Roca-Sastre'
 description:      'Gabriel Puig Roca-Sastre'
-url:              https://tic.tradior.cat
+url:              https://tic.traduir.cat
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
