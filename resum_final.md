@@ -5,4 +5,16 @@ sidebar_link: true
 sidebar_sort_order: 5
 ---
 
-## Resum final
+<details>
+<summary><h2>Reflexió</h2></summary>
+
+
+
+</details>
+
+<details>
+<summary><h2>Autoavaluació</h2></summary>
+
+
+
+</details>
