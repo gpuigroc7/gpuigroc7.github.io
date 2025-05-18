@@ -7,7 +7,7 @@ Segurament et deu sobtar torbar-te una pàgina que no és un Google Sites. A con
 
 ## Sobre mi
 <div style="text-align: center;">
-<img src="assets\jo.jpg" alt="jo" height="300">
+<img src="assets\jo.jpg" alt="jo" height="200">
 </div>
 
 * Soc estudiant del Màster de Formació de Professorat de secundària en l'especialitat de Llengües estrangeres - Francès.
