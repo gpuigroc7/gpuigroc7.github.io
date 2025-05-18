@@ -5,12 +5,8 @@ sidebar_link: true
 sidebar_sort_order: 5
 ---
 
-<details>
-<summary><h2>Reflexió</h2></summary>
+## Reflexió
 
-
-
-</details>
 
 <details>
 <summary><h2>Autoavaluació</h2></summary>
